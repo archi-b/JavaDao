@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings/
+target/
+lib/
+
+### Intellij ###
+\.idea/
+*.iml
+*idea/
+packages/
